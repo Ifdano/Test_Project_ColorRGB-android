@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="marginFrame">10dp</dimen>
+    <dimen name="marginMain">27dp</dimen>
+    <dimen name="paddingMain">11dp</dimen>
+    
+    <dimen name="textMainRGB">35sp</dimen>
+        
+    <dimen name="buttonMainTextSize">30sp</dimen>
+    
+</resources>

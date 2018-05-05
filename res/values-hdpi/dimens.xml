@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="marginFrame">10dp</dimen>
+    <dimen name="marginMain">17dp</dimen>
+    <dimen name="paddingMain">5dp</dimen>
+    
+    <dimen name="textMainRGB">30sp</dimen>
+        
+    <dimen name="buttonMainTextSize">25sp</dimen>
+    
+    <dimen name="layoutPickerHeight">150dp</dimen>
+    <dimen name="layoutPickerWidth">180dp</dimen>
+    <dimen name="textPickerSize">30sp</dimen>
+    
+    <dimen name="layoutPickers">30dp</dimen>
+
+    <dimen name="editSearchTextSize">30sp</dimen>    
+    <dimen name="layoutSearchHeight">200dp</dimen>
+    <dimen name="layoutSearchWidth">220dp</dimen>
+    <dimen name="buttonSearchTextSize">25sp</dimen>
+    
+    <dimen name="textInfoSize">20sp</dimen>
+    <dimen name="buttonInfoBack">25sp</dimen>
+    
+    <dimen name="buttonPickerBack">25sp</dimen>
+    
+</resources>

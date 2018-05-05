@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">RGB Colors</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="textMainRGB">RGB colors</string>
+    
+    <string name="buttonMainPicker">color picker</string>
+    <string name="buttonMainSearch">check code</string>
+    <string name="buttonMainInfo">info</string>
+    
+    <string name="textPicker">#RGB</string>
+    
+    <string name="editSearch">#RGB</string>
+    <string name="buttonSearchCheck">check</string>
+    <string name="buttonSearchBack">back</string>
+    
+    <string name="textInfo"> RGB color system constructs all the colors from the combination of the Red, Green and Blue colors. \n\n
+The red, green and blue use 8 bits each, which have integer values from 0 to 255. This makes 256*256*256=16777216 possible colors.\n\n
+RGB ≡ Red, Green, Blue</string>
+
+    <string name="buttonInfoBack">back</string>
+   
+    <string name="buttonPickerBack">back</string>
+</resources>

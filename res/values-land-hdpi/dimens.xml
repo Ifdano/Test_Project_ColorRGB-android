@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="marginFrame">7dp</dimen>
+    <dimen name="marginMain">12dp</dimen>
+    <dimen name="paddingMain">3dp</dimen>
+    
+    <dimen name="textMainRGB">28sp</dimen>
+        
+    <dimen name="buttonMainTextSize">17sp</dimen>
+    
+    <dimen name="textInfoSize">17sp</dimen>
+    <dimen name="buttonInfoBack">18sp</dimen>
+    
+    <dimen name="buttonPickerBack">18sp</dimen>
+    
+</resources>

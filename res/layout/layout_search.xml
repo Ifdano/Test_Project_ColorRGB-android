@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop = "@dimen/marginFrame"
+    android:layout_marginBottom = "@dimen/marginFrame"
+    android:layout_marginLeft = "@dimen/marginFrame"
+    android:layout_marginRight = "@dimen/marginFrame"
+    android:background = "#F5F5F5"
+    >
+    
+     <LinearLayout
+        android:layout_width = "match_parent"
+        android:layout_height = "@dimen/layoutSearchHeight"
+        android:id = "@+id/layoutSearch"
+        android:orientation = "horizontal"
+        android:layout_gravity = "center"
+        android:background = "#000000"
+        >
+    </LinearLayout>
+    
+    <EditText
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:ems = "8"
+        android:id = "@+id/editSearch"
+        android:layout_gravity = "center"
+        android:gravity = "center"
+        android:layout_marginTop = "@dimen/marginMain"
+        android:hint = "@string/editSearch"
+        android:textSize = "@dimen/editSearchTextSize"
+        android:textStyle = "italic|bold"
+        android:inputType = "text"
+        >
+   	</EditText>
+
+   	<LinearLayout
+   	    android:layout_width = "match_parent"
+   	    android:layout_height = "wrap_content"
+   	    android:gravity = "center"
+   	    android:orientation = "horizontal"
+   	    android:layout_marginTop = "@dimen/marginMain"
+   	    >
+   	    
+   	    <Button
+   	        android:layout_width = "wrap_content"
+   	        android:layout_height = "wrap_content"
+   	        android:id = "@+id/buttonSearchCheck"
+   	        android:text = "@string/buttonSearchCheck"
+   	        android:textSize = "@dimen/buttonSearchTextSize"
+   	        android:textColor = "#FFFFFF"
+   	        android:background = "#000000"
+   	        android:gravity = "center"
+   	        android:padding = "@dimen/paddingMain"
+   	        android:layout_marginRight = "@dimen/marginMain"
+   	        >
+   	    </Button>
+   	    
+   	    <Button
+   	        android:layout_width = "wrap_content"
+   	        android:layout_height = "wrap_content"
+   	        android:id = "@+id/buttonSearchBack"
+   	        android:text = "@string/buttonSearchBack"
+   	        android:textSize = "@dimen/buttonSearchTextSize"
+   	        android:textColor = "#FFFFFF"
+   	        android:background = "#000000"
+   	        android:gravity = "center"
+   	        android:padding = "@dimen/paddingMain"
+   	        android:layout_marginLeft = "@dimen/marginMain"
+   	        >
+   	    </Button>
+   	    
+   	</LinearLayout>
+    
+</LinearLayout>

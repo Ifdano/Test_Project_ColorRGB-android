@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    android:orientation = "vertical"
+    android:layout_marginTop = "@dimen/marginFrame"
+    android:layout_marginBottom = "@dimen/marginFrame"
+    android:layout_marginLeft = "@dimen/marginFrame"
+    android:layout_marginRight = "@dimen/marginFrame"
+    android:background = "#C4C1C1"
+    >
+    
+    <TextView
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:id = "@+id/textMainRGB"
+        android:text = "@string/textMainRGB"
+        android:textSize = "@dimen/textMainRGB"
+        android:textStyle = "bold"
+        android:layout_gravity = "center"
+        android:layout_marginTop = "@dimen/marginMain"
+        android:layout_marginBottom = "@dimen/marginMain"
+        >
+    </TextView>
+    
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:id = "@+id/buttonMainPicker"
+        android:text = "@string/buttonMainPicker"
+        android:textSize = "@dimen/buttonMainTextSize"
+        android:textColor = "#FFFFFF"
+    	android:background = "#000000"
+        android:layout_gravity = "center"
+        android:layout_marginTop = "@dimen/marginMain"
+        android:padding = "@dimen/paddingMain"
+        >
+    </Button>
+    
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:id = "@+id/buttonMainSearch"
+        android:text = "@string/buttonMainSearch"
+        android:textSize = "@dimen/buttonMainTextSize"
+        android:textColor = "#FFFFFF"
+        android:background = "#000000"
+        android:layout_gravity = "center"
+        android:layout_marginTop = "@dimen/marginMain"
+        android:padding = "@dimen/paddingMain"
+        >
+    </Button>
+    
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:id = "@+id/buttonMainInfo"
+        android:text = "@string/buttonMainInfo"
+        android:textSize = "@dimen/buttonMainTextSize"
+        android:textColor = "#FFFFFF"
+        android:background = "#000000"
+        android:layout_gravity = "center"
+        android:layout_marginTop = "@dimen/marginMain"
+        >
+    </Button>
+    
+</LinearLayout>

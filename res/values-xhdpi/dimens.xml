@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="marginFrame">14dp</dimen>
+    <dimen name="marginMain">20dp</dimen>
+    <dimen name="paddingMain">8dp</dimen>
+    
+    <dimen name="textMainRGB">35sp</dimen>
+        
+    <dimen name="buttonMainTextSize">30sp</dimen>
+    
+    <dimen name="layoutPickerHeight">200dp</dimen>
+    
+    <dimen name="textInfoSize">25sp</dimen>
+    
+    <dimen name="buttonPickerBack">35sp</dimen>
+    
+</resources>
