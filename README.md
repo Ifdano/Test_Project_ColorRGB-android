@@ -1,3 +1,3 @@
-# Test_Projects_ColorRGB
+# Test Projects "Color RGB"
 
 Color RGB: Picker, Check and Info.
